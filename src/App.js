@@ -6,7 +6,7 @@ function App() {
   return (
     
     <div>
-      <h1>AI Chatbot</h1>
+      <h1>Nat-My-Problem</h1>
       <Chatbot />
     </div>
   );
