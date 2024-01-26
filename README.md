@@ -1,4 +1,3 @@
-![NatMyProblem Format](https://github.com/robert-brunner/NatMYProblem/assets/106982994/3726cccf-dec3-49eb-bc8e-5a8173ce5dd3)
 
 
 `Nat-MY-Problem`
@@ -10,6 +9,7 @@ Work in progress.
 You need an api key to run.  
 Set it up in a .env folder at the root of your project and make sure to .gitignore it like this:
 
+![NatMyProblem Format](https://github.com/robert-brunner/NatMYProblem/assets/106982994/3726cccf-dec3-49eb-bc8e-5a8173ce5dd3)
 
 `.gitgnore`
 
