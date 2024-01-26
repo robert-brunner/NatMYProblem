@@ -1,4 +1,4 @@
-**`Nat-MY-Problem`
+`Nat-MY-Problem`
 
 Chat bot testing the my capabilites with tailwind as well as fetch calls and the Openai api.   
 Work in progress.  
@@ -6,7 +6,7 @@ You need an api key to run.
 Set it up in a .env folder at the root of your project and make sure to .gitignore it like this:
 
 
-###`.gitgnore`
+`.gitgnore`
 
 .env                # Add this line
 .env.local
@@ -16,7 +16,7 @@ Set it up in a .env folder at the root of your project and make sure to .gitigno
 
 -----------------------------------------
 
-###`.env`
+`.env`
 
 
 REACT_APP_OPENAI_API_KEY="YOUR KEY HERE!  Make sure to inlcude the sk-"
