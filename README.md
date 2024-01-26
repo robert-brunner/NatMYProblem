@@ -1,6 +1,6 @@
 `Nat-MY-Problem`
 
-![Alt text](src/assets/NatMyProblem Format.png)
+![Alt text]([src/assets/NatMyProblem Format.png](https://github.com/robert-brunner/NatMYProblem/blob/main/src/assets/NatMyProblem%20Format.png?raw=true))
 
 Chat bot testing the my capabilites with tailwind as well as fetch calls and the Openai api.   
 Work in progress.  
