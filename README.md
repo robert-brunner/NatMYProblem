@@ -26,7 +26,7 @@ Set it up in a .env folder at the root of your project and make sure to .gitigno
 
 REACT_APP_OPENAI_API_KEY="YOUR KEY HERE!  Make sure to inlcude the sk-"
 
-https://www.loom.com/share/0d6331d96e274a0a92a1308dd166b357?sid=70364d33-448b-404c-8579-6fc1ea190ed4
+[https://www.loom.com/share/0d6331d96e274a0a92a1308dd166b357?sid=70364d33-448b-404c-8579-6fc1ea190ed4](https://www.loom.com/share/0d6331d96e274a0a92a1308dd166b357?t=1&sid=481f6130-a41e-405e-9dc0-286b20a6d88c)
 
 -----------------------------------------
 
